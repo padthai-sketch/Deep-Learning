@@ -6,8 +6,11 @@ I was assined to help build and evaluate deep learning models using both the FNG
 3. [Evaluate the performance of each model](#evaluate-the-performance-of-each-model)
 
 
-![closing](https://github.com/padthai-sketch/Deep-Learning/blob/main/Images/closing.png)
+<p align="center">
+<img src="https://github.com/padthai-sketch/Deep-Learning/blob/main/Images/closing.png" alt="drawing" width="400"/>
+
 The Model using the closing prices as indicators
+</p>
 
 
 ![fng](https://github.com/padthai-sketch/Deep-Learning/blob/main/Images/fng.png)
