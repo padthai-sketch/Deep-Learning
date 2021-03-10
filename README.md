@@ -5,10 +5,11 @@ I was assined to help build and evaluate deep learning models using both the FNG
 2. [Build and train custom LSTM RNNs](#build-and-train-custom-lstm-rnns)
 3. [Evaluate the performance of each model](#evaluate-the-performance-of-each-model)
 
-
+<p align="center">The Model using the closing prices as indicators</p>
 <p align="center">
 <img src="https://github.com/padthai-sketch/Deep-Learning/blob/main/Images/closing.png" alt="drawing" width="500"/></p>
-<p align="center">The Model using the closing prices as indicators</p>
+
+<p align="center">The Model using the FNG as indicators</p>
 <p align="center">
 <img src="https://github.com/padthai-sketch/Deep-Learning/blob/main/Images/fng.png" alt="drawing" width="500"/></p>
 <p align="center">The Model using the FNG as indicators</p>
