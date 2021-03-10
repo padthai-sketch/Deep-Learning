@@ -7,13 +7,11 @@ I was assined to help build and evaluate deep learning models using both the FNG
 
 
 <p align="center">
-<img src="https://github.com/padthai-sketch/Deep-Learning/blob/main/Images/closing.png" alt="drawing" width="400"/>
+<img src="https://github.com/padthai-sketch/Deep-Learning/blob/main/Images/closing.png" alt="drawing" width="500"/>
+The Model using the closing prices as indicators</p>
 
-The Model using the closing prices as indicators
-</p>
-
-
-![fng](https://github.com/padthai-sketch/Deep-Learning/blob/main/Images/fng.png)
-The Model using the FNG as indicators
+<p align="center">
+<img src="https://github.com/padthai-sketch/Deep-Learning/blob/main/Images/fng.png" alt="drawing" width="500"/>
+The Model using the FNG as indicators</p>
 
 Based on the performance of both models, it can summarize that the first model, which uses the normal closing price data, performs better than the FNG one. It indicates lower loss and the ability to monitor the real values over time. In this experiment, I set window sizes to 10 and 20 to see which one is working better. Turns out that the shorter the window size, the better.
